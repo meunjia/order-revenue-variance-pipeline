@@ -1,0 +1,20 @@
+환율정보,,,,,,,
+USD/KRW,1400,,,,,,
+JPY/KRW,9.5,,,,,,
+EUR/KRW,1520,,,,,,
+,,,,,,,,
+제품군 구성비,,,,,,,
+변압기,65%,,,,,,
+차단기,35%,,,,,,
+,,,,,,,,
+수주월,팀명,제품군,수주금액(억),프로젝트명,PJT No.,발주처(EPC등),원청
+01월,01.국내1,TR(변압기),45.0,Alpha Renewable TR,P-2601-001,Alpha Energy Corp,Alpha Construction
+01월,01.국내1,HH(차단기),15.0,Bravo Switchgear Package,P-2601-002,Bravo Industrial,Bravo Engineering
+01월,03.해외1,TR(변압기),120.0,Charlie Solar Farm TR,P-2601-003,Charlie Renewables Ltd,Charlie EPC
+02월,02.국내2,TR(변압기),30.0,Delta Grid Upgrade,P-2601-004,Delta Power Systems,Delta Construction
+02월,02.국내2,HH(차단기),12.0,Echo Substation CB,P-2601-005,Echo Industries,Echo Grid Co
+02월,03.해외1,TR(변압기),85.0,Foxtrot Wind Farm TR,P-2601-006,Foxtrot Energy,Foxtrot EPC
+02월,04.해외2,TR(변압기),200.0,Golf Offshore Platform TR,P-2601-007,Golf Maritime Group,Golf Construction
+03월,01.국내1,TR(변압기),55.0,Hotel Industrial TR,P-2601-008,Hotel Manufacturing,Hotel Engineering
+03월,02.국내2,HH(차단기),8.0,India Circuit Panel,P-2601-009,India Electric Co,India Grid
+03월,03.해외1,TR(변압기),95.0,Juliet Power Station TR,P-2601-010,Juliet Utilities,Juliet EPC

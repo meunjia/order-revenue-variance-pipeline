@@ -1,0 +1,17 @@
+환율정보,,,,,,
+USD/KRW,1400,,,,,
+JPY/KRW,9.5,,,,,
+,,,,,,
+매출월,팀명,제품군1,매출(억원),PJT명,PJT번호,발주처
+26년01월,01.국내1,TR,18.5,Alpha Renewable TR,P-2601-001,Alpha Energy Corp
+26년01월,02.국내2,HH,6.0,Bravo Switchgear Package,P-2601-002,Bravo Industrial
+26년01월,03.해외1,TR,44.0,Charlie Solar Farm TR,P-2601-003,Charlie Renewables Ltd
+26년01월,03.해외1,TR,52.0,Foxtrot Wind Farm TR,P-2601-006,Foxtrot Energy
+26년02월,01.국내1,TR,22.0,Alpha Renewable TR,P-2601-001,Alpha Energy Corp
+26년02월,02.국내2,TR,16.0,Delta Grid Upgrade,P-2601-004,Delta Power Systems
+26년02월,02.국내2,HH,5.0,Echo Substation CB,P-2601-005,Echo Industries
+26년02월,03.해외1,TR,36.0,Charlie Solar Farm TR,P-2601-003,Charlie Renewables Ltd
+26년02월,03.해외1,TR,28.0,Lima Solar Park TR,P-2601-N02,Lima Renewables
+26년03월,01.국내1,TR,21.0,Hotel Industrial TR,P-2601-008,Hotel Manufacturing
+26년03월,02.국내2,HH,4.0,India Circuit Panel,P-2601-009,India Electric Co
+26년03월,03.해외1,TR,62.0,Juliet Power Station TR,P-2601-010,Juliet Utilities

@@ -1,0 +1,15 @@
+확정월,수주IN,팀명,제품군0,예상금액(억원),PJT명,PJT번호,발주처,원청
+26년01월,IN,01.국내1,TR,45.0,Alpha Renewable TR,P-2601-001,Alpha Energy Corp,Alpha Construction
+26년01월,IN,01.국내1,HH,15.5,Bravo Switchgear Package,P-2601-002,Bravo Industrial,Bravo Engineering
+26년01월,IN,03.해외1,TR,175.0,Kilo Wind Complex TR,P-2601-N01,Kilo Power Inc,Kilo EPC
+26년01월,OUT,02.국내2,TR,20.0,Nova Distribution TR,P-2601-099,Nova Power,Nova Engineering
+26년02월,IN,02.국내2,TR,32.0,Delta Grid Upgrade,P-2601-004,Delta Power Systems,Delta Construction
+26년02월,IN,02.국내2,HH,12.0,Echo Substation CB,P-2601-005,Echo Industries,Echo Grid Co
+26년02월,IN,03.해외1,TR,88.0,Foxtrot Wind Farm TR,P-2601-006,Foxtrot Energy,Foxtrot EPC
+26년02월,IN,03.해외1,TR,90.0,Lima Solar Park TR,P-2601-N02,Lima Renewables,Lima EPC
+26년02월,OUT,01.국내1,HH,5.0,Oscar Switchgear,P-2601-098,Oscar Electric,Oscar Grid
+26년03월,IN,03.해외1,TR,123.0,Charlie Solar Farm TR,P-2601-003,Charlie Renewables Ltd,Charlie EPC
+26년03월,IN,01.국내1,TR,55.0,Hotel Industrial TR,P-2601-008,Hotel Manufacturing,Hotel Engineering
+26년03월,IN,02.국내2,HH,8.0,India Circuit Panel,P-2601-009,India Electric Co,India Grid
+26년03월,IN,01.국내1,HH,22.0,Mike Substation Panel,P-2601-N03,Mike Electric,Mike Engineering
+26년03월,IN,03.해외1,TR,98.0,Juliet Power Station TR,P-2601-010,Juliet Utilities,Juliet EPC
